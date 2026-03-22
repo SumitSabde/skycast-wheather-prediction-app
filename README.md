@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -21,6 +22,20 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 >>>>>>> a151c70559b28ec5fe035f79375cc7c8f30dd675
 
+=======
+# SkyCast Weather Prediction ☁️
+
+React based weather prediction app showing real-time weather data.
+
+## Features
+- City search
+- Temperature display
+- Humidity and wind info
+- Responsive UI
+
+## Tech Stack
+React, CSS, API
+>>>>>>> 7238f6389e3004875a509a2b791c3e15e08a22ad
 
 
 
